@@ -1,5 +1,10 @@
 # Table of contents
 
-* [How to use reproducer](README.md)
-* [intro](intro.md)
+* [Intro](README.md)
+* [Using the reproducer](reproducer.md)
+* [Untitled](untitled.md)
+
+## cheatsheets
+
+* [some-api](cheatsheets/some-api.md)
 
